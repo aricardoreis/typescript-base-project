@@ -30,3 +30,9 @@ npm run build
 ```
 npm run start:dev
 ```
+
+- Fix formatting with prettier
+
+```
+npm run prettier:fix
+```
